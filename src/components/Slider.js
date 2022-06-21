@@ -22,7 +22,7 @@ export default function Slider() {
 
     useEffect(() => {
         slideRef.current.addEventListener('animationend', removeAnimation)
-        startSlider()
+        // startSlider()
     }, [])
 
     // const startSlider = () => {
