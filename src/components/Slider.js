@@ -25,11 +25,11 @@ export default function Slider() {
         startSlider()
     }, [])
 
-    const startSlider = () => {
-        setInterval(() => {
-            handleOnNextClick()
-        }, 5000);
-    }
+    // const startSlider = () => {
+    //     setInterval(() => {
+    //         handleOnNextClick()
+    //     }, 5000);
+    // }
 
     const handleOnNextClick = () => {
         count = (count + 1 ) % featuredProducts.length;

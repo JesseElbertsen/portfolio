@@ -1,5 +1,5 @@
 import React from 'react'
-import pic1 from '../images/portfoliosites.png'
+
 import pic2 from '../images/jandekapper.png'
 import pic3 from '../images/snippetjar.png'
 import {  HiScissors } from 'react-icons/hi'
