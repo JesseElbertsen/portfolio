@@ -23,8 +23,8 @@ function About(){
                     <div id="persoon"></div>
                 </div>
                 <div className="flex flex-col-reverse md:flex-row justify-between p-10">
-                    <div className="md:p-10">
-                        <div className="container md:mx-auto p-5 rounded-xl">
+                    <div className="md:p-10 ">
+                        <div className="container md:mx-auto md:p-5 rounded-xl">
                             <h1 className="text-3xl mb-5 text-red-600 font-bold">
                                 Wie ik ben
                             </h1>
@@ -56,7 +56,7 @@ function About(){
                         </div>
                     </div>
                     <div className="p-10">
-                        <div className="container mx-auto p-5 rounded-xl">
+                        <div className="container mx-auto md:p-5 rounded-xl">
                         <h1 className="text-3xl mb-5 text-red-600 font-bold">School Achtergrond</h1>
                             <p className="text-xl mb-5">
                                 In 2019 heb ik mijn HAVO Diploma gehaald bij het VAVO lyceum in Amersfoort. Hier heb ik de Natuur en gezondheid (NG) profiel gevolgd, met als bijvak informatica waar ik maar eerste aanmerking heb gehad met programmeren en met name HTML/CSS.
@@ -78,7 +78,7 @@ function About(){
                         </div>
                     </div>
                     <div className="p-10">
-                        <div className="container mx-auto p-5 rounded-xl">
+                        <div className="container mx-auto md:p-5 rounded-xl">
                         <h1 className="text-3xl mb-5 text-red-600 font-bold">Werk Achtergrond</h1>
                             <p className="text-xl mb-5">
                                 Vanaf jongs af aan ben ik al begonnen met werken en heb sinds mijn 14de altijd al een baan gehad.

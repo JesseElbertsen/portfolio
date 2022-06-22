@@ -16,7 +16,7 @@ function Home(){
                         </div>
                         <div className="font-bold w-60 flex flex-col justify-center">
                             <h1 className="mb-4">Ik ben beginnende developer in <p className="text-red-600">HTML - CSS - React</p></h1>
-                            <h1>en ik vind het leuk om websites te designen en maken maar vooral om te leren.</h1>
+                            <h1>en ik vind het leuk om websites te designen en maken, maar vooral om te leren.</h1>
                         </div>
                     </div>
                     <div className="p-10">

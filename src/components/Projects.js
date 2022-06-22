@@ -30,9 +30,9 @@ function Projects(){
                     <div className="md:p-10 ">
                         <div className="container md:mx-auto md:p-5 rounded-xl">
                             <h1 className="text-3xl mb-5 text-red-600 font-bold">Portfolio Project</h1>
-                            <p className="text-xl mb-5">In het begin van mijn school carriere op Hogeschool Utrecht hebben wij om kennis te maken met coderen en ICT in het algemeen kleine projectjes gedaan, met als begin een portfolio website maken.</p>
+                            <p className="text-xl mb-5">In het begin van mijn school Carrière op Hogeschool Utrecht hebben wij om kennis te maken met coderen en ICT in het algemeen kleine projectjes gedaan, met als begin een portfolio website maken.</p>
                             <p className="text-xl mb-5">Tijdens het eerste project had ik nul kennis over programmeren dus was dit een goed begin om kennis te maken met HTML en CSS.</p>
-                            <p className="text-xl mb-5">-De eerste versie is geschreven met puur HTML en CSS maar was niet responsive.</p>
+                            <p className="text-xl mb-5">-De eerste versie is geschreven met puur HTML en CSS, maar was niet responsive.</p>
                             <p className="text-xl mb-5">-De tweede versie wilde ik graag responsive maken en heb ik dus met de minimale kennis die ik had Bootstrap toegepast.</p>
                             <p className="text-xl mb-5">-De derde versie heb ik met HTML CSS zelf een grid systeem gemaakt om de site responsive te maken en om een beter begrip te krijgen van hoe het is om met HTML en CSS te werken.</p>
                             <p className="text-xl mb-5">-En als laatste heb ik het huidige portfolio site die ik gemaakt heb met React en Tailwind om alle dingen die ik geleerd heb met de vorige versies in 1 hele project toe te passen</p>
