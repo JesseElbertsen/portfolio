@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import About from './components/About';
 
-import { BrowserRouter as Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import NavBar from './components/NavBar';
 

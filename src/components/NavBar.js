@@ -17,9 +17,7 @@ function NavBar(){
     return(
         <nav className="md:flex justify-between items-center bg-red-900 sticky top-0 z-20 p-4 text-white">
             <div className="flex items-center justify-between">
-                <a href="#">
-                    <p></p>
-                </a>
+                <p></p>
                 {showNav ? (
                 <HiOutlineMenuAlt3 
                 onClick={() => setShowNav(!showNav)} 
